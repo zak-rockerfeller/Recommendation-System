@@ -8,3 +8,7 @@ The recommender system deals with a large volume of information present by filte
 Both the users and the services provided have benefited from these kinds of systems. The quality and decision-making process has also improved through these kinds of systems.
 
 In this notebook, we are going to explore a movie recommendation system which recommends movies for you based on a movie you like.
+
+Here's the output.
+
+![reco_output](https://user-images.githubusercontent.com/55271909/157508175-60e0f408-39d6-4f35-bcc4-1b65eb1a2545.png)
